@@ -11,3 +11,6 @@ https://fustyles.github.io/webduino/SpBlocklyF1/index.html<br><br>
 
 SpBlocklyF2 (NWJS)<br>
 https://drive.google.com/drive/folders/1kSyki0ysN2-1C5AvQejJodCg9O4s7_Kb?usp=drive_link
+
+SpBlocklyF2 (online)<br>
+https://test_github.io/webduino/SpBlocklyF1/index.html<br><br>
